@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.898b6b8c.css",
+    "main.js": "/static/js/main.292a02f2.js",
+    "static/media/IRANSansWeb_Light.eot": "/static/media/IRANSansWeb_Light.2dffffe3b22e33c7ec29.eot",
+    "static/media/SOL.png": "/static/media/SOL.8cde7953de8c4390ae33.png",
+    "static/media/favpng.png": "/static/media/favpng.7057242bf703dd840015.png",
+    "static/media/IRANSansWeb_Light.woff": "/static/media/IRANSansWeb_Light.721eb7ab97005da7447e.woff",
+    "static/media/IRANSansWeb.woff": "/static/media/IRANSansWeb.8d649f69659e092cd2f9.woff",
+    "static/media/IRANSansWeb_Medium.woff": "/static/media/IRANSansWeb_Medium.ed4ac452b05d496237b8.woff",
+    "static/media/opportunity.png": "/static/media/opportunity.d20c1dd7df8642e9d0cc.png",
+    "static/media/question.png": "/static/media/question.3e1e1009164b39ccd3a4.png",
+    "static/media/about.png": "/static/media/about.8df27dde20985b52af98.png",
+    "static/media/wage.png": "/static/media/wage.f5b9eb16b24eea509e9d.png",
+    "static/media/profile.png": "/static/media/profile.fcf6ab3e5c6b17e76de0.png",
+    "static/media/direction.png": "/static/media/direction.18b3653f24e91b48a5d3.png",
+    "static/media/notifications.png": "/static/media/notifications.6d3881e663cb8ad8b326.png",
+    "static/media/bag.png": "/static/media/bag.9d68911adb1376a529cf.png",
+    "static/media/bitgap.png": "/static/media/bitgap.92ae965bcba44fc1d7a4.png",
+    "static/media/comment.png": "/static/media/comment.164d29e4435b22a5f130.png",
+    "static/media/bitbarglogo.svg": "/static/media/bitbarglogo.96400aa4d35eaac713bbee7702b17fba.svg",
+    "static/media/menu.svg": "/static/media/menu.d88ab17b94852cb1878daf7c10590233.svg",
+    "static/media/call.svg": "/static/media/call.19e07c7f682850fa9d7dcd2bc0baf8e5.svg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.018a17fbdc43286010272ed25cbc6d39.svg",
+    "static/media/close.svg": "/static/media/close.29caed4a6351d12d033c76353b127a41.svg",
+    "main.898b6b8c.css.map": "/static/css/main.898b6b8c.css.map",
+    "main.292a02f2.js.map": "/static/js/main.292a02f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898b6b8c.css",
+    "static/js/main.292a02f2.js"
+  ]
+}
